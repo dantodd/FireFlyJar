@@ -8,9 +8,9 @@ The sketch uses an Arduino Nano (I used the cheapie from off shore), 3 X yellow/
 
 
 ###How-To setup hardware
-Just attach wire to the positive leg of the LEDs attach this wire to Arduino pins 9, 10, and 11. Now solder a resistor to the negative leg and solder some wire to the other end of the resistor. Attach this wire to the ground pin on the Arduino. You’re all setup to test the hardware. Plug the Arduino into your computer and load up the provided sketch using the Arduino software. 
+Just attach a wire to the positive leg of each LED. Attach the other end of the wire to Arduino pins 9, 10, and 11 so that one LED is attached to each pin. Now solder a resistor to the negative leg and solder some wire to the other end of the resistor. Attach these wires to the ground pin on the Arduino. You’re all set to test the hardware. Plug the Arduino into your computer and load up the provided sketch using the Arduino software. 
 	##Hints:
-I used stranded wire for the positive leads and solid wire (22 AWG) for the ground. This gave me enough rigidness to position the LEDs in the jar and have them somewhat stay in place. I also covered the leads in heat shrink tubing. I also spray painted the jar with “window frost” paint from Rustoleum.
+I used stranded wire for the positive leads and solid wire (22 AWG) for the ground. This gave me enough rigidness to position the LEDs in the jar and have them somewhat stay in place. I also covered the leads in heat shrink tubing. I also spray painted the jar (outside, I tried the inside, it didn't work) with “window frost” paint from Rustoleum.
 
 
 
