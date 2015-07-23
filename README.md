@@ -12,6 +12,12 @@ Just attach a wire to the positive leg of each LED. Attach the other end of the 
 	##Hints:
 I used stranded wire for the positive leads and solid wire (22 AWG) for the ground. This gave me enough rigidness to position the LEDs in the jar and have them somewhat stay in place. I also covered the leads in heat shrink tubing. I also spray painted the jar (outside, I tried the inside, it didn't work) with “window frost” paint from Rustoleum.
 
+Version 0.1 
+LEDs run continually.
+
+
+Version 0.2
+LEDs run for a selectable time and then automatically turn off and the Arduino goes into power down mode consuming less power but the voltage regulator is still running unless you provide power directly to the 5V pin circumventing the regulator.
 
 
 Prices as of 7/21/2015
