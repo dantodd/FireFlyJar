@@ -3,6 +3,9 @@ Build a firefly jar with an Arduino and a couple yellow LEDs.
 
 FireFlyJar is a simple program that flashes 3 LEDs to simulate Fire Flies. You can put them into a mason jar to look like you’ve trapped the flies in the jar. 
 
+You can also view the build on Instructables if you want. http://www.instructables.com/id/Fire-Fly-Jar-Arduino/
+
+
 ###Hardware
 The sketch uses an Arduino Nano (I used the cheapie from off shore), 3 X yellow/orange LEDs, 3 X 330 ohm resistors, one mason jar, and a 9 volt battery.
 
